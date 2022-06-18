@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KjetilRD
-- 👀 I’m interested in Cloud Computing, Serverless solutions and backend solutions.
+- 👀 I’m interested in Cloud Computing, Serverless solutions and DevOps / Agile practices.
 - 🌱 I’m currently learning GitHub Actions and CockroachDB.
 
 <!---
