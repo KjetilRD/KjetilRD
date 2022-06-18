@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KjetilRD
+- 👋 Kjetil Røsok-Dahl @KjetilRD
 - 👀 I’m interested in Cloud Computing, Serverless solutions and DevOps / Agile practices.
 - 🌱 I’m currently learning GitHub Actions and CockroachDB.
 
